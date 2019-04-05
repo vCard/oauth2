@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"gopkg.in/oauth2.v3"
+	"github.com/vcard/oauth2"
 )
 
 // Config configuration parameters
